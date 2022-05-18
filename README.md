@@ -1,4 +1,4 @@
-# simple_shell project repository
+# ALX SIMPLE SHELL PROJECT
 
 This repository contains the files for alx's **simple_shell**. It can be compiled using GCC and will execute a simple shell that can be used for some basic tasks and programs most commonly found in the /bin/ folder.
 
@@ -37,9 +37,6 @@ This repository contains the files for alx's **simple_shell**. It can be compile
 - write (man 2 write)
 
 ### GCC command to compile:
-`
-gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
-`
 
 This wil compile all the '.c' files and change the output's name to 'hsh'.
 
